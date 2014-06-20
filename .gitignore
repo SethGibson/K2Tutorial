@@ -1,2 +1,6 @@
 *.opensdf
 *.sdf
+bin
+x64
+*.log
+*.suo
